@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "AI.Controllers.ChatController",
+    "Method": "AskQuestion",
+    "RelativePath": "api/chat/virtualassistant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "question",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AI.Controllers.FileUploadController",
+    "Method": "GetFiles",
+    "RelativePath": "api/files/getallfiles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AI.Controllers.FileUploadController",
+    "Method": "UploadFile",
+    "RelativePath": "api/files/uploadfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
