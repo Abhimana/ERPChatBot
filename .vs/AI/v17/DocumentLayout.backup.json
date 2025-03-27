@@ -65,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 323,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
@@ -78,7 +78,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:42:29.254Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,10 +89,11 @@
               "RelativeDocumentMoniker": "Controllers\\FileUploadController.cs",
               "ToolTip": "D:\\.NetEx\\AI\\Controllers\\FileUploadController.cs",
               "RelativeToolTip": "Controllers\\FileUploadController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:59:18.039Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -101,10 +103,11 @@
               "RelativeDocumentMoniker": "Service\\FileService.cs",
               "ToolTip": "D:\\.NetEx\\AI\\Service\\FileService.cs",
               "RelativeToolTip": "Service\\FileService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIAxwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADgv38AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:46:38.091Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,10 +117,11 @@
               "RelativeDocumentMoniker": "Repository\\FileRepository.cs",
               "ToolTip": "D:\\.NetEx\\AI\\Repository\\FileRepository.cs",
               "RelativeToolTip": "Repository\\FileRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:45:04.69Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +134,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:44:28.885Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -143,7 +148,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:46:12.916Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,7 +162,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:48:59.341Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -169,7 +176,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T10:22:59.179Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -182,7 +190,8 @@
               "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:49:29.324Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -192,10 +201,11 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\.NetEx\\AI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T11:00:56.31Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,7 +218,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-22T11:03:20.869Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI",
+              "DocumentMoniker": "D:\\.NetEx\\AI\\AI.csproj",
+              "RelativeDocumentMoniker": "AI.csproj",
+              "ToolTip": "D:\\.NetEx\\AI\\AI.csproj",
+              "RelativeToolTip": "AI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T10:58:46.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -228,19 +253,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AI.csproj",
-              "DocumentMoniker": "D:\\.NetEx\\AI\\AI.csproj",
-              "RelativeDocumentMoniker": "AI.csproj",
-              "ToolTip": "D:\\.NetEx\\AI\\AI.csproj",
-              "RelativeToolTip": "AI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T07:02:47.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "20250322110946_CreateInitial.cs",
               "DocumentMoniker": "D:\\.NetEx\\AI\\Migrations\\20250322110946_CreateInitial.cs",
@@ -249,7 +261,8 @@
               "RelativeToolTip": "Migrations\\20250322110946_CreateInitial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:09:47.371Z"
+              "WhenOpened": "2025-03-22T11:09:47.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -259,7 +272,8 @@
               "ToolTip": "C:\\Users\\Admin\\.nuget\\packages\\ironxl.excel\\2025.3.1\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-22T09:39:53.362Z"
+              "WhenOpened": "2025-03-22T09:39:53.362Z",
+              "EditorCaption": ""
             }
           ]
         }
