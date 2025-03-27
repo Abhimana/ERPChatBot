@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NetEx\\EX\\AI\\AI.csproj": {}
+    "D:\\.NetEx\\AI\\AI.csproj": {}
   },
   "projects": {
-    "D:\\.NetEx\\EX\\AI\\AI.csproj": {
+    "D:\\.NetEx\\AI\\AI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetEx\\EX\\AI\\AI.csproj",
+        "projectUniqueName": "D:\\.NetEx\\AI\\AI.csproj",
         "projectName": "AI",
-        "projectPath": "D:\\.NetEx\\EX\\AI\\AI.csproj",
+        "projectPath": "D:\\.NetEx\\AI\\AI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetEx\\EX\\AI\\obj\\",
+        "outputPath": "D:\\.NetEx\\AI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
